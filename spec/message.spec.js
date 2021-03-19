@@ -1,3 +1,4 @@
+
 const Message = require('../message.js');
 const Command = require('../command.js');
 
